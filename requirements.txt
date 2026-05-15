@@ -1,0 +1,11 @@
+openai
+SpeechRecognition
+pyttsx3
+gTTS
+pygame
+requests
+pyjokes
+wikipedia
+pyaudio
+groq
+pyautogui
